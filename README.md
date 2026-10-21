@@ -1,4 +1,4 @@
-# Boulder Escape — COMP1401A T2
+# Boulder Escape
 
 Videojuego 3D original con HTML, CSS, JavaScript y Three.js. Luma corre por una ruta selvática mientras una roca gigante la persigue.
 
