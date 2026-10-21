@@ -1,6 +1,6 @@
-# Boulder Escape
+# CORRE POCOYO - T2
 
-Videojuego 3D original con HTML, CSS, JavaScript y Three.js. Luma corre por una ruta selvática mientras una roca gigante la persigue.
+Videojuego 3D con HTML, CSS, JavaScript y Three.js. Pocoyo corre por una ruta selvática mientras una roca gigante lo persigue.
 
 ## Rúbrica cubierta
 
@@ -23,7 +23,7 @@ Abra `http://localhost:8000`. Pulse **Comenzar carrera** y use **A/D** o las fle
 ## Estructura
 
 ```
-boulder-escape-threejs/
+corre-pocoyo-t2/
 ├── index.html
 ├── styles.css
 ├── js/game.js
